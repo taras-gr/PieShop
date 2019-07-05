@@ -27,7 +27,7 @@ namespace MvcPS.Controllers
 
             var homeViewModel = new HomeViewModel()
             {
-                Title = "Welcome to Pie Shop",
+                Title = "Welcome to Pie Shop\n",
                 Pies = pies.ToList()
             };
 
