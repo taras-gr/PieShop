@@ -48,3 +48,5 @@ C:\Users\Taras_Hrytsenko\Desktop\PieShop\MvcPS\obj\Debug\netcoreapp2.2\MvcPS.dll
 C:\Users\Taras_Hrytsenko\Desktop\PieShop\MvcPS\obj\Debug\netcoreapp2.2\MvcPS.pdb
 C:\Users\Taras_Hrytsenko\Desktop\PieShop\MvcPS\obj\Debug\netcoreapp2.2\MvcPS.csproj.CopyComplete
 C:\Users\Taras_Hrytsenko\Desktop\PieShop\MvcPS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Taras_Hrytsenko\Desktop\PieShop\MvcPS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.g.cshtml.cs
+C:\Users\Taras_Hrytsenko\Desktop\PieShop\MvcPS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
