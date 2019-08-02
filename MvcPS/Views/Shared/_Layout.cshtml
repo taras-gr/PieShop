@@ -3,17 +3,16 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>@ViewData["Title"]</title>
+    <title>@ViewBag.Title</title>
     <link href="~/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
-    <link rel="stylesheet" href="~/content/site.css" />
-
+    <link rel="stylesheet" href="~/css/site.css" />
 </head>
 <body>
     <nav class="navbar navbar-inverse navbar-fixed-top">
         <div class="container">
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li><a asp-controller="Home" asp-action="Index" class="navbar-brand">Bethny Pie Shop</a></li>
+                    <li><a asp-controller="Home" asp-action="Index" class="navbar-brand">Bethany's Pie Shop</a></li>
                 </ul>
             </div>
         </div>
@@ -22,6 +21,6 @@
         <div class="row">
             @RenderBody()
         </div>
-    </div>    
+    </div>
 </body>
 </html>
