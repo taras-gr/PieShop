@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Taras_Hrytsenko\\Desktop\\PieShop\\BethanysPieShop.csproj": {}
+    "D:\\Studying\\PieShop\\BethanysPieShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Taras_Hrytsenko\\Desktop\\PieShop\\BethanysPieShop.csproj": {
+    "D:\\Studying\\PieShop\\BethanysPieShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Taras_Hrytsenko\\Desktop\\PieShop\\BethanysPieShop.csproj",
+        "projectUniqueName": "D:\\Studying\\PieShop\\BethanysPieShop.csproj",
         "projectName": "BethanysPieShop",
-        "projectPath": "C:\\Users\\Taras_Hrytsenko\\Desktop\\PieShop\\BethanysPieShop.csproj",
+        "projectPath": "D:\\Studying\\PieShop\\BethanysPieShop.csproj",
         "packagesPath": "C:\\Users\\Taras_Hrytsenko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Taras_Hrytsenko\\Desktop\\PieShop\\obj\\",
+        "outputPath": "D:\\Studying\\PieShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,6 +57,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
             }
           },
           "imports": [
